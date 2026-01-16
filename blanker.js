@@ -25,7 +25,7 @@ function blank() {
     </style>
   </head>
   <body>
-    <iframe src="https://zenithub.pages.dev" class="frame"></iframe>
+    <iframe src="https://coolmathgames.com" class="frame"></iframe>
   </body>
 </html>
   `);
