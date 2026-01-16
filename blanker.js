@@ -5,7 +5,7 @@ function blank() {
 <!doctype html>
 <html>
   <head>
-    <title>Evil Games</title>
+    <title>how did you find me...</title>
     <link rel="icon" href="https://10091120-ctrl.github.io/Mega-Math-Monster/monster.png" />
     <style>
       * {
