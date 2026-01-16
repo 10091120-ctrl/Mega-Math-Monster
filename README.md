@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My README</title>
 </head>
 <body>
   <h1> Hello! 😀</h1>
