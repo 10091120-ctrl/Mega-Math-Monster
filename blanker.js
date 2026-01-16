@@ -5,8 +5,27 @@ function blank() {
 <!doctype html>
 <html>
   <head>
+    <title>Evil Games</title>
+    <link rel="icon" href="https://10091120-ctrl.github.io/Mega-Math-Monster/monster.png" />
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+      }
+      body, html {
+        height: 100%;
+        width: 100%;
+      }
+      .frame {
+        height: 100%;
+        width: 100%;
+        display: block;
+        border: none;
+      }
+    </style>
   </head>
   <body>
+    <iframe src="https://zenithub.pages.dev" class="frame"></iframe>
   </body>
 </html>
   `);
