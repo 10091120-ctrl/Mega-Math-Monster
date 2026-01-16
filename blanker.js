@@ -25,7 +25,7 @@ function blank() {
     </style>
   </head>
   <body>
-    <iframe src="https://coolmathgames.com" class="frame"></iframe>
+    <iframe src="10091120-ctrl.github.io/ewewewewewewewew/" class="frame"></iframe>
   </body>
 </html>
   `);
